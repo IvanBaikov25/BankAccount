@@ -2,7 +2,9 @@
 
 namespace Baikov\Work9;
 use PHPUnit\Framework\TestCase;
-
+use Baikov\Work9\BankAccount;
+use Baikov\Work9\InvalidAmountException;
+use Baikov\Work9\InsufficientFundsException;
 class BankAccountTest extends TestCase {
     public function testInitialBalance() {
         $account = new BankAccount(100.0);

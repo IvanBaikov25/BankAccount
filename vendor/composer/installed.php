@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'baikov/work9',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '84bb23e459cdb665450295ab66c1b2fbc63f2ad0',
         'type' => 'work9',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'baikov/work9' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '84bb23e459cdb665450295ab66c1b2fbc63f2ad0',
             'type' => 'work9',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
